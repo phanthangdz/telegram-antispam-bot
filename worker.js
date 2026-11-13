@@ -1,4 +1,4 @@
-const TOKEN = "9113514496:AAH2meonP8LE9fGV6OhZnETFQ55FkzsIB8U";
+const TOKEN = "9113514496:AAH0uTgJ1ru_uJBm-Y70ZGfU0XlK2_722s";
 const API_URL = `https://api.telegram.org/bot${TOKEN}`;
 
 export default {
